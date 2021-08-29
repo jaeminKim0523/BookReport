@@ -1,4 +1,7 @@
 # BookReport
-독후감 리스트
-- [자기 결정](https://github.com/jaeminKim0523/BookReport/blob/main/%EC%9E%90%EA%B8%B0%EA%B2%B0%EC%A0%95.md, "자기 결정 link")
-- 
+독후감 작성하는 레포지토리입니다.
+
+인문/철학
+- 자기결정
+- 나는 나답게 살기로 했다
+- 왜 
