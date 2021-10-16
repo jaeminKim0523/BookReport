@@ -10,3 +10,4 @@
 
 전공
 - Clean Code
+- Clean Architecture
